@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    line-height: 2; 
+    margin: 0;
+    padding: 0;
+    width: 21cm; 
+    height: 20 cm; 
+    margin: 0 auto; 
+    padding: 5 cm; 
+    box-sizing: border-box;
+    background-color: white
+}
+
+h1 {
+    font-family: "Anek Devanagari", sans-serif;
+    font-weight: 800;
+    color: maroon;
+    line-height: 1;
+
+}
+
+h2, h3 {
+    font-family: "Open Sans", sans-serif;
+    font-size: medium;
+    color: black;
+    font-weight: 400;
+
+}
+
+h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    line-height: 0.25cm;
+}
+
+#nota-relacionada {
+    font-size: medium;
+    color: black; 
+}
+
+
